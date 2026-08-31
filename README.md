@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Hal 👋
 
-<!--
-**v0urnt/v0urnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer
 
-Here are some ideas to get you started:
+I'm focused on backend development, databases, and building applications with PHP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+- PHP
+- Laravel
+- MariaDB
+- PostgreSQL
+- Python
+- Git & GitHub
+
+## 📚 Currently learning
+
+- Laravel
+- REST APIs
+- Database design
+- Advanced SQL
+- Backend development
+- Software development best practices
+
+## 🚀 Projects
+
+I'm currently working on backend and database projects, including applications built with Laravel and PostgreSQL.
+
+## 🎯 Goals
+
+Continue improving my backend development skills and build professional, real-world projects.
+
+---
+
+⭐ Thanks for visiting my profile.
