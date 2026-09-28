@@ -15,12 +15,13 @@ I'm focused on backend development, databases, and building applications with PH
 
 ## 📚 Currently learning
 
-- Laravel
+- Graphql
 - REST APIs
 - Database design
 - Advanced SQL
 - Backend development
 - Software development best practices
+- Javascript, backend-frontend
 
 ## 🚀 Projects
 
